@@ -1,0 +1,11 @@
+[21/04/2025 16:03:12] {Warning} 	 Qt: Session management error: None of the authentication protocols specified are supported
+[21/04/2025 16:03:12] {Debug} 		 OFFIS_DCMTK_VERSION =  3.6.1 
+[21/04/2025 16:03:12] {Debug} 		 "OpenGL Version = 1, 0" 
+[21/04/2025 16:03:12] {Debug} 		 OpenGL context valid = true 
+[21/04/2025 16:03:12] {Debug} 		 line =  "/home/sean/jimbo/jimbo.sqlite" size =  29 
+[21/04/2025 16:03:12] {Debug} 		 pathdatabase "/home/sean/jimbo/jimbo.sqlite" 
+ pathDir "/home/sean/jimbo" 
+ VAR_DIR_JIMBO_CONFIGURED "/home/sean/jimbo" 
+[21/04/2025 16:04:35] {Debug} 		 No images found in DICOMDIR location 
+[21/04/2025 16:04:35] {Debug} 		 No images found in DICOMDIR location 
+[21/04/2025 16:04:35] {Debug} 		 dicomdir name in DICOMDIRReader : "/media/sean/2025_04_21/DICOMDIR" 
